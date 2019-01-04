@@ -57,4 +57,6 @@
 		}
 	}
 
+	echo "Hello update Testing";
+
  ?>
